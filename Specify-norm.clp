@@ -24,13 +24,15 @@
 			(first$ ?cf-norm-value))
 		(bind ?norm-value
 			(rest$ ?cf-norm-value))
-		(first$ ?cf-norm-value))
+		(first$ ?cf-norm-value)
 		;(println ?norm-line-from-db)
 		;(println ?criteria-val)
 		;(println ?norm-value)
 		;(println ?cf-value)
 		(make-instance (sym-cat norm-(gensym*)) of Norm-Value (criteria ?criteria-val) 
 					(value ?norm-value) (cf ?cf-value))
+		;(println "done")
+		
 	)
 	(close norm-from-db)
 )

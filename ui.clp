@@ -278,7 +278,7 @@
 (defrule evaluation-screen (declare (salience -1000))
 	(evaluation-screen)
 	=>
-	(bind ?choice (one-to-n-p 4
+	(bind ?choice (one-to-n-p 5
 		"What would you like to do now?" crlf
 		"1) View the executive summary" crlf
 		"2) View the customer's inference information" crlf

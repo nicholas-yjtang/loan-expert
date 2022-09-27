@@ -15,7 +15,7 @@
 	(declare (salience -997))
 	(object (is-a Evaluated-Value) (criteria address-verified) (cf ?value&:(< ?value 0.0) ))
 	=>
-	(make-instance msg-address of Message-Evaluation (criteria address-verified)  (value "Address is not safe and not stable"))
+	(make-instance msg-address-invalid of Message-Evaluation (criteria address-verified)  (value "Address is not safe and not stable"))
 	
 )
 
