@@ -1,0 +1,18 @@
+Name of client: William Sia
+NRIC: S5555555A
+Age: 18
+Name of current employer: Maginet
+E1. Occupation: Programmer
+E1. Monthly Salary: 1700
+E1. Type of employment: Full-Time
+E1. Number of years in employment: 3
+Current Address: Pasir Ris
+A1. Number of years at address: 4
+Number of deposit per month: 5
+Number of withdrawal per month: 5
+Credit cards: NO
+Credit limit: 0
+Chequing account: NO
+Total value of properties: 0
+Loan Amount: 100000
+loan Term (yrs): 10

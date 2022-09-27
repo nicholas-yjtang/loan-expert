@@ -1,0 +1,18 @@
+Name of client: Alvin Tan
+NRIC: S2222222A
+Age: 27
+Name of current employer: Vee Communications Pte Ltd
+E1. Occupation: Admin Executive
+E1. Monthly Salary: 2500
+E1. Type of employment: Part-Time
+E1. Number of years in employment: 3
+Current Address: Dairy Farm
+A1. Number of years at address: 4
+Number of deposit per month: 10
+Number of withdrawal per month: 15
+Credit cards: NO
+Credit limit: 0
+Chequing account: NO
+Total value of properties: 0
+Loan Amount: 100000
+loan Term (yrs): 5

@@ -1,0 +1,29 @@
+Name of client: nil
+NRIC: nil
+Age: nil
+
+Name of current employer: nil
+E1. Occupation: nil
+E1. Monthly Salary: nil
+E1. Type of employment: nil
+E1. Number of years in employment: nil
+E1. Overseas Posting: nil
+
+Name of previous employer 1: nil
+E2. Occupation: nil
+E2. Monthly Salary: nil
+E2. Type of employment: nil
+E2. Number of years in employment: nil
+E2. Overseas Posting: nil
+
+Current Address: nil
+A1. Number of years at address: nil
+
+Previous Address: nil
+A2. Number of years at address: nil
+
+Number of bank transaction per month: nil
+Credit cards: nil
+Credit limit: nil
+Chequing account: nil
+Total value of properties: nil

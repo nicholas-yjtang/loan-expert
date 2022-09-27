@@ -1,0 +1,27 @@
+age	1	18
+sufficient-years	1	2
+salary	1	2000
+emp-type	1	Full-Time
+address	1	3
+paid-a-lot-of-money	1	5000
+worked-overseas	1	YES
+no-of-transactions	1	10
+property-value	1	300000
+credit-limit	1	5000
+credit-card	1	YES
+cheque	1	YES
+total-jobs	1	3	3
+full-time	1	 YES
+full-time	-0.1	 NO
+abstracted-address	1	YES
+abstracted-address	-0.1	NO
+special-circumstances	0.8	 YES
+special-circumstances	-0.1	 NO 
+impeccable-finances	0.7	 YES
+impeccable-finances	-0.2	 NO
+job-stability	1	 YES
+job-stability	-1	NO 
+meets-estimate	0.99	YES
+meets-estimate	-0.95	NO
+abstracted-sufficient-years	0.99	YES
+abstracted-sufficient-years	-0.1	NO

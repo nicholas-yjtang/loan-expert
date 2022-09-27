@@ -1,0 +1,18 @@
+Name of client: Agnes Loh
+NRIC: S1234567A
+Age: 27
+Name of current employer: Fuji Xerox
+E1. Occupation: System Analysts
+E1. Monthly Salary: 3750
+E1. Type of employment: Full-Time
+E1. Number of years in employment: 1
+Current Address: Bukit Batok
+A1. Number of years at address: 2
+Number of deposit per month: 10
+Number of withdrawal per month: 15
+Credit cards: YES
+Credit limit: 10000
+Chequing account: YES
+Total value of properties: 500000
+Loan Amount: 300000
+loan Term (yrs): 20

@@ -1,0 +1,18 @@
+Name of client: Rosalind Sim
+NRIC: S4444444A
+Age: 43
+Name of current employer: CNB
+E1. Occupation: Executive Director
+E1. Monthly Salary: 35000
+E1. Type of employment: Full-Time
+E1. Number of years in employment: 1
+Current Address: Dairy Farm
+A1. Number of years at address: 2
+Number of deposit per month: 20
+Number of withdrawal per month: 30
+Credit cards: YES
+Credit limit: 10000
+Chequing account: YES
+Total value of properties: 750000
+Loan Amount: 800000
+loan Term (yrs): 10

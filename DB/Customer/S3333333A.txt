@@ -1,0 +1,18 @@
+Name of client: Cindy Yeo
+NRIC: S3333333A
+Age: 27
+Name of current employer: Citadel Consulting Pte Ltd
+E1. Occupation: Sales Executive
+E1. Monthly Salary: 6500
+E1. Type of employment: Full-Time
+E1. Number of years in employment: 1
+Current Address: Arab Street
+A1. Number of years at address: 2
+Number of deposit per month: 10
+Number of withdrawal per month: 15
+Credit cards: YES
+Credit limit: 10000
+Chequing account: NO
+Total value of properties: 150000
+Loan Amount: 300000
+loan Term (yrs): 10
